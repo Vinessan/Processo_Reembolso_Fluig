@@ -1,0 +1,802 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.8.0_261" class="java.beans.XMLDecoder">
+ <object class="java.util.HashMap">
+  <void method="put">
+   <string>volume</string>
+   <array class="java.lang.String" length="1">
+    <void index="0">
+     <string>Default</string>
+    </void>
+   </array>
+  </void>
+  <void method="put">
+   <string>expediente</string>
+   <array class="java.lang.String" length="3">
+    <void index="0">
+     <string>Default</string>
+    </void>
+    <void index="1">
+     <string>expediente - Luan</string>
+    </void>
+    <void index="2">
+     <string>expedienteRayssa</string>
+    </void>
+   </array>
+  </void>
+  <void method="put">
+   <string>mecanismo</string>
+   <array class="[Ljava.lang.Object;" length="77">
+    <void index="0">
+     <array class="java.lang.Object" length="2">
+      <void index="0">
+       <string>AlanFluicAcademyMec</string>
+      </void>
+      <void index="1">
+       <string>AlanFluicAcademyMec</string>
+      </void>
+     </array>
+    </void>
+    <void index="1">
+     <array class="java.lang.Object" length="2">
+      <void index="0">
+       <string>Alan_mc_reembolso</string>
+      </void>
+      <void index="1">
+       <string>Alan_mc_reembolso</string>
+      </void>
+     </array>
+    </void>
+    <void index="2">
+     <array class="java.lang.Object" length="2">
+      <void index="0">
+       <string>AmDiagramaMecanismo</string>
+      </void>
+      <void index="1">
+       <string>AmDiagramaMecanismo</string>
+      </void>
+     </array>
+    </void>
+    <void index="3">
+     <array class="java.lang.Object" length="2">
+      <void index="0">
+       <string>AmecCustomAprov</string>
+      </void>
+      <void index="1">
+       <string>AmecCustomAprov</string>
+      </void>
+     </array>
+    </void>
+    <void index="4">
+     <array class="java.lang.Object" length="2">
+      <void index="0">
+       <string>analiseChamadoCustom</string>
+      </void>
+      <void index="1">
+       <string>analiseChamadoCustom</string>
+      </void>
+     </array>
+    </void>
+    <void index="5">
+     <array class="java.lang.Object" length="2">
+      <void index="0">
+       <string>aprovadorCustom</string>
+      </void>
+      <void index="1">
+       <string>aprovadorCustom</string>
+      </void>
+     </array>
+    </void>
+    <void index="6">
+     <array class="java.lang.Object" length="2">
+      <void index="0">
+       <string>Aprovadores Ariel</string>
+      </void>
+      <void index="1">
+       <string>Aprovadores_Ariel</string>
+      </void>
+     </array>
+    </void>
+    <void index="7">
+     <array class="java.lang.Object" length="2">
+      <void index="0">
+       <string>Aprovadores_natalino</string>
+      </void>
+      <void index="1">
+       <string>Aprovadores_natalino</string>
+      </void>
+     </array>
+    </void>
+    <void index="8">
+     <array class="java.lang.Object" length="2">
+      <void index="0">
+       <string>Aprovador_moda</string>
+      </void>
+      <void index="1">
+       <string>Aprovador_moda</string>
+      </void>
+     </array>
+    </void>
+    <void index="9">
+     <array class="java.lang.Object" length="2">
+      <void index="0">
+       <string>Atribuição por Associação</string>
+      </void>
+      <void index="1">
+       <string>Associado</string>
+      </void>
+     </array>
+    </void>
+    <void index="10">
+     <array class="java.lang.Object" length="2">
+      <void index="0">
+       <string>CaioDiagramaMecanismo</string>
+      </void>
+      <void index="1">
+       <string>CaioDiagramaMecanismo</string>
+      </void>
+     </array>
+    </void>
+    <void index="11">
+     <array class="java.lang.Object" length="2">
+      <void index="0">
+       <string>Atribuição por Campo de Formulário</string>
+      </void>
+      <void index="1">
+       <string>Campo Formulário</string>
+      </void>
+     </array>
+    </void>
+    <void index="12">
+     <array class="java.lang.Object" length="2">
+      <void index="0">
+       <string>MecanismoCustom_Alcada_GRocha</string>
+      </void>
+      <void index="1">
+       <string>Custom_Alcada_GRocha</string>
+      </void>
+     </array>
+    </void>
+    <void index="13">
+     <array class="java.lang.Object" length="2">
+      <void index="0">
+       <string>Atribuição por Executor de Atividade</string>
+      </void>
+      <void index="1">
+       <string>Executor Atividade</string>
+      </void>
+     </array>
+    </void>
+    <void index="14">
+     <array class="java.lang.Object" length="2">
+      <void index="0">
+       <string>FavaretoMecSupervisor</string>
+      </void>
+      <void index="1">
+       <string>FavaretoMecSupervisor</string>
+      </void>
+     </array>
+    </void>
+    <void index="15">
+     <array class="java.lang.Object" length="2">
+      <void index="0">
+       <string>Atribuição por Grupo</string>
+      </void>
+      <void index="1">
+       <string>Grupo</string>
+      </void>
+     </array>
+    </void>
+    <void index="16">
+     <array class="java.lang.Object" length="2">
+      <void index="0">
+       <string>Atribuição por Grupos do Colaborador</string>
+      </void>
+      <void index="1">
+       <string>Grupos Colaborador</string>
+      </void>
+     </array>
+    </void>
+    <void index="17">
+     <array class="java.lang.Object" length="2">
+      <void index="0">
+       <string>LukinhasMecanismo</string>
+      </void>
+      <void index="1">
+       <string>LukinhasMecanismo</string>
+      </void>
+     </array>
+    </void>
+    <void index="18">
+     <array class="java.lang.Object" length="2">
+      <void index="0">
+       <string>mcAndre</string>
+      </void>
+      <void index="1">
+       <string>mcAndre</string>
+      </void>
+     </array>
+    </void>
+    <void index="19">
+     <array class="java.lang.Object" length="2">
+      <void index="0">
+       <string>mc_Aula1</string>
+      </void>
+      <void index="1">
+       <string>mc_Aula1</string>
+      </void>
+     </array>
+    </void>
+    <void index="20">
+     <array class="java.lang.Object" length="2">
+      <void index="0">
+       <string>mc_FluxoReembolso</string>
+      </void>
+      <void index="1">
+       <string>mc_FluxoReembolso</string>
+      </void>
+     </array>
+    </void>
+    <void index="21">
+     <array class="java.lang.Object" length="2">
+      <void index="0">
+       <string>mcPrimeiroTeste</string>
+      </void>
+      <void index="1">
+       <string>mc_primeiroTeste</string>
+      </void>
+     </array>
+    </void>
+    <void index="22">
+     <array class="java.lang.Object" length="2">
+      <void index="0">
+       <string>mc_ReembolsoGabriel</string>
+      </void>
+      <void index="1">
+       <string>mc_ReembolsoGabriel</string>
+      </void>
+     </array>
+    </void>
+    <void index="23">
+     <array class="java.lang.Object" length="2">
+      <void index="0">
+       <string>mec-aprovacao-julio</string>
+      </void>
+      <void index="1">
+       <string>mec-aprovacao-julio</string>
+      </void>
+     </array>
+    </void>
+    <void index="24">
+     <array class="java.lang.Object" length="2">
+      <void index="0">
+       <string>mecApprove_grocha</string>
+      </void>
+      <void index="1">
+       <string>mecApprove_grocha</string>
+      </void>
+     </array>
+    </void>
+    <void index="25">
+     <array class="java.lang.Object" length="2">
+      <void index="0">
+       <string>mecAprovaLVC</string>
+      </void>
+      <void index="1">
+       <string>mecAprovaLVC</string>
+      </void>
+     </array>
+    </void>
+    <void index="26">
+     <array class="java.lang.Object" length="2">
+      <void index="0">
+       <string>MecAtrb Reembolso Luan</string>
+      </void>
+      <void index="1">
+       <string>MecAtrb Reembolso Luan</string>
+      </void>
+     </array>
+    </void>
+    <void index="27">
+     <array class="java.lang.Object" length="2">
+      <void index="0">
+       <string>mecAtribuicaoArqCoord</string>
+      </void>
+      <void index="1">
+       <string>mecAtribuicaoArqCoord</string>
+      </void>
+     </array>
+    </void>
+    <void index="28">
+     <array class="java.lang.Object" length="2">
+      <void index="0">
+       <string>mecAtribuicaoArqGestor</string>
+      </void>
+      <void index="1">
+       <string>mecAtribuicaoArqGestor</string>
+      </void>
+     </array>
+    </void>
+    <void index="29">
+     <array class="java.lang.Object" length="2">
+      <void index="0">
+       <string>mecAtribuicaoCgCoord</string>
+      </void>
+      <void index="1">
+       <string>mecAtribuicaoCgCoord</string>
+      </void>
+     </array>
+    </void>
+    <void index="30">
+     <array class="java.lang.Object" length="2">
+      <void index="0">
+       <string>mecAtribuicaoCgGestor</string>
+      </void>
+      <void index="1">
+       <string>mecAtribuicaoCgGestor</string>
+      </void>
+     </array>
+    </void>
+    <void index="31">
+     <array class="java.lang.Object" length="2">
+      <void index="0">
+       <string>mecAtribuicaoComercial</string>
+      </void>
+      <void index="1">
+       <string>mecAtribuicaoComercial</string>
+      </void>
+     </array>
+    </void>
+    <void index="32">
+     <array class="java.lang.Object" length="2">
+      <void index="0">
+       <string>mecAtribuicaoEng</string>
+      </void>
+      <void index="1">
+       <string>mecAtribuicaoEng</string>
+      </void>
+     </array>
+    </void>
+    <void index="33">
+     <array class="java.lang.Object" length="2">
+      <void index="0">
+       <string>mecAtribuicaoEngGestor</string>
+      </void>
+      <void index="1">
+       <string>mecAtribuicaoEngGestor</string>
+      </void>
+     </array>
+    </void>
+    <void index="34">
+     <array class="java.lang.Object" length="2">
+      <void index="0">
+       <string>mecAtribuicaoInicio</string>
+      </void>
+      <void index="1">
+       <string>mecAtribuicaoInicio</string>
+      </void>
+     </array>
+    </void>
+    <void index="35">
+     <array class="java.lang.Object" length="2">
+      <void index="0">
+       <string>mecAtribuicaoInstCoord</string>
+      </void>
+      <void index="1">
+       <string>mecAtribuicaoInstCoord</string>
+      </void>
+     </array>
+    </void>
+    <void index="36">
+     <array class="java.lang.Object" length="2">
+      <void index="0">
+       <string>mecAtribuicaoInstGestor</string>
+      </void>
+      <void index="1">
+       <string>mecAtribuicaoInstGestor</string>
+      </void>
+     </array>
+    </void>
+    <void index="37">
+     <array class="java.lang.Object" length="2">
+      <void index="0">
+       <string>mecAtribuicaoMktCoord</string>
+      </void>
+      <void index="1">
+       <string>mecAtribuicaoMktCoord</string>
+      </void>
+     </array>
+    </void>
+    <void index="38">
+     <array class="java.lang.Object" length="2">
+      <void index="0">
+       <string>mecAtribuicaoMktGestor</string>
+      </void>
+      <void index="1">
+       <string>mecAtribuicaoMktGestor</string>
+      </void>
+     </array>
+    </void>
+    <void index="39">
+     <array class="java.lang.Object" length="2">
+      <void index="0">
+       <string>mecAtribuicaoMobCoord</string>
+      </void>
+      <void index="1">
+       <string>mecAtribuicaoMobCoord</string>
+      </void>
+     </array>
+    </void>
+    <void index="40">
+     <array class="java.lang.Object" length="2">
+      <void index="0">
+       <string>mecAtribuicaoMobGestor</string>
+      </void>
+      <void index="1">
+       <string>mecAtribuicaoMobGestor</string>
+      </void>
+     </array>
+    </void>
+    <void index="41">
+     <array class="java.lang.Object" length="2">
+      <void index="0">
+       <string>mecAtribuicaoOrcCoord</string>
+      </void>
+      <void index="1">
+       <string>mecAtribuicaoOrcCoord</string>
+      </void>
+     </array>
+    </void>
+    <void index="42">
+     <array class="java.lang.Object" length="2">
+      <void index="0">
+       <string>mecAtribuicaoOrcGestor</string>
+      </void>
+      <void index="1">
+       <string>mecAtribuicaoOrcGestor</string>
+      </void>
+     </array>
+    </void>
+    <void index="43">
+     <array class="java.lang.Object" length="2">
+      <void index="0">
+       <string>mecAtribuicaoPlan</string>
+      </void>
+      <void index="1">
+       <string>mecAtribuicaoPlan</string>
+      </void>
+     </array>
+    </void>
+    <void index="44">
+     <array class="java.lang.Object" length="2">
+      <void index="0">
+       <string>mecAtribuicaoPlanGestor</string>
+      </void>
+      <void index="1">
+       <string>mecAtribuicaoPlanGestor</string>
+      </void>
+     </array>
+    </void>
+    <void index="45">
+     <array class="java.lang.Object" length="2">
+      <void index="0">
+       <string>mecCustomAprov</string>
+      </void>
+      <void index="1">
+       <string>mecCustomAprov</string>
+      </void>
+     </array>
+    </void>
+    <void index="46">
+     <array class="java.lang.Object" length="2">
+      <void index="0">
+       <string>mecCustomAprovCamila</string>
+      </void>
+      <void index="1">
+       <string>mecCustomAprovCamila</string>
+      </void>
+     </array>
+    </void>
+    <void index="47">
+     <array class="java.lang.Object" length="2">
+      <void index="0">
+       <string>MecanismoCustomAprovadores_Ariel</string>
+      </void>
+      <void index="1">
+       <string>mecCustomAprov_Ariel</string>
+      </void>
+     </array>
+    </void>
+    <void index="48">
+     <array class="java.lang.Object" length="2">
+      <void index="0">
+       <string>mecCustomAprov_MatheusVal</string>
+      </void>
+      <void index="1">
+       <string>mecCustomAprov_MatheusVal</string>
+      </void>
+     </array>
+    </void>
+    <void index="49">
+     <array class="java.lang.Object" length="2">
+      <void index="0">
+       <string>mecCustomAprov_Vinicius</string>
+      </void>
+      <void index="1">
+       <string>mecCustomAprov_Vinicius</string>
+      </void>
+     </array>
+    </void>
+    <void index="50">
+     <array class="java.lang.Object" length="2">
+      <void index="0">
+       <string>mecGestor</string>
+      </void>
+      <void index="1">
+       <string>mecGestor</string>
+      </void>
+     </array>
+    </void>
+    <void index="51">
+     <array class="java.lang.Object" length="2">
+      <void index="0">
+       <string>mecGustavoReembolso</string>
+      </void>
+      <void index="1">
+       <string>mecGustavoReembolso</string>
+      </void>
+     </array>
+    </void>
+    <void index="52">
+     <array class="java.lang.Object" length="2">
+      <void index="0">
+       <string>MecLiberacaoWesley</string>
+      </void>
+      <void index="1">
+       <string>MecLiberacaoWesley</string>
+      </void>
+     </array>
+    </void>
+    <void index="53">
+     <array class="java.lang.Object" length="2">
+      <void index="0">
+       <string>mec_alcadaProtheus</string>
+      </void>
+      <void index="1">
+       <string>mec_alcadaProtheus</string>
+      </void>
+     </array>
+    </void>
+    <void index="54">
+     <array class="java.lang.Object" length="2">
+      <void index="0">
+       <string>mec_alcada_santana</string>
+      </void>
+      <void index="1">
+       <string>mec_alcada_santana</string>
+      </void>
+     </array>
+    </void>
+    <void index="55">
+     <array class="java.lang.Object" length="2">
+      <void index="0">
+       <string>mec_aprov_dante</string>
+      </void>
+      <void index="1">
+       <string>mec_aprov_dante</string>
+      </void>
+     </array>
+    </void>
+    <void index="56">
+     <array class="java.lang.Object" length="2">
+      <void index="0">
+       <string>mec_aprov_dante_2</string>
+      </void>
+      <void index="1">
+       <string>mec_aprov_dante_2</string>
+      </void>
+     </array>
+    </void>
+    <void index="57">
+     <array class="java.lang.Object" length="2">
+      <void index="0">
+       <string>mec_customizado_reembolso_rafael</string>
+      </void>
+      <void index="1">
+       <string>mec_customizado_rafael2</string>
+      </void>
+     </array>
+    </void>
+    <void index="58">
+     <array class="java.lang.Object" length="2">
+      <void index="0">
+       <string>mec_customizado_zuin</string>
+      </void>
+      <void index="1">
+       <string>mec_customizado_zuin</string>
+      </void>
+     </array>
+    </void>
+    <void index="59">
+     <array class="java.lang.Object" length="2">
+      <void index="0">
+       <string>mec_custom_reembolso_camila</string>
+      </void>
+      <void index="1">
+       <string>mec_custom_reem_camila</string>
+      </void>
+     </array>
+    </void>
+    <void index="60">
+     <array class="java.lang.Object" length="2">
+      <void index="0">
+       <string>mec_diretorPolo</string>
+      </void>
+      <void index="1">
+       <string>mec_diretorPolo</string>
+      </void>
+     </array>
+    </void>
+    <void index="61">
+     <array class="java.lang.Object" length="2">
+      <void index="0">
+       <string>mec_engAmbiental</string>
+      </void>
+      <void index="1">
+       <string>mec_engAmbiental</string>
+      </void>
+     </array>
+    </void>
+    <void index="62">
+     <array class="java.lang.Object" length="2">
+      <void index="0">
+       <string>mec_engManutencao</string>
+      </void>
+      <void index="1">
+       <string>mec_engManutencao</string>
+      </void>
+     </array>
+    </void>
+    <void index="63">
+     <array class="java.lang.Object" length="2">
+      <void index="0">
+       <string>mec_engSeguranca</string>
+      </void>
+      <void index="1">
+       <string>mec_engSeguranca</string>
+      </void>
+     </array>
+    </void>
+    <void index="64">
+     <array class="java.lang.Object" length="2">
+      <void index="0">
+       <string>mec_getDiretorArea</string>
+      </void>
+      <void index="1">
+       <string>mec_getDiretorArea</string>
+      </void>
+     </array>
+    </void>
+    <void index="65">
+     <array class="java.lang.Object" length="2">
+      <void index="0">
+       <string>mec_getDiretorArea_2</string>
+      </void>
+      <void index="1">
+       <string>mec_getDiretorArea_2</string>
+      </void>
+     </array>
+    </void>
+    <void index="66">
+     <array class="java.lang.Object" length="2">
+      <void index="0">
+       <string>mec_getGerenteArea</string>
+      </void>
+      <void index="1">
+       <string>mec_getGerenteArea</string>
+      </void>
+     </array>
+    </void>
+    <void index="67">
+     <array class="java.lang.Object" length="2">
+      <void index="0">
+       <string>mec_reembolso_maicol</string>
+      </void>
+      <void index="1">
+       <string>mec_reembolso_maicol</string>
+      </void>
+     </array>
+    </void>
+    <void index="68">
+     <array class="java.lang.Object" length="2">
+      <void index="0">
+       <string>mec_teste</string>
+      </void>
+      <void index="1">
+       <string>mec_teste</string>
+      </void>
+     </array>
+    </void>
+    <void index="69">
+     <array class="java.lang.Object" length="2">
+      <void index="0">
+       <string>mec_teste2</string>
+      </void>
+      <void index="1">
+       <string>mec_teste2</string>
+      </void>
+     </array>
+    </void>
+    <void index="70">
+     <array class="java.lang.Object" length="2">
+      <void index="0">
+       <string>Atribuição por Papel</string>
+      </void>
+      <void index="1">
+       <string>Papel</string>
+      </void>
+     </array>
+    </void>
+    <void index="71">
+     <array class="java.lang.Object" length="2">
+      <void index="0">
+       <string>Atribuição para um Grupo</string>
+      </void>
+      <void index="1">
+       <string>Pool Grupo</string>
+      </void>
+     </array>
+    </void>
+    <void index="72">
+     <array class="java.lang.Object" length="2">
+      <void index="0">
+       <string>Atribuição para um Papel</string>
+      </void>
+      <void index="1">
+       <string>Pool Papel</string>
+      </void>
+     </array>
+    </void>
+    <void index="73">
+     <array class="java.lang.Object" length="2">
+      <void index="0">
+       <string>Alçada - Solicitação de Compra</string>
+      </void>
+      <void index="1">
+       <string>solicitacao_compra_alcada</string>
+      </void>
+     </array>
+    </void>
+    <void index="74">
+     <array class="java.lang.Object" length="2">
+      <void index="0">
+       <string>teste_pool</string>
+      </void>
+      <void index="1">
+       <string>teste_pool</string>
+      </void>
+     </array>
+    </void>
+    <void index="75">
+     <array class="java.lang.Object" length="2">
+      <void index="0">
+       <string>Atribuição por Usuário</string>
+      </void>
+      <void index="1">
+       <string>Usuário</string>
+      </void>
+     </array>
+    </void>
+    <void index="76">
+     <array class="java.lang.Object" length="2">
+      <void index="0">
+       <string>Vinicius_mecCustonAprov</string>
+      </void>
+      <void index="1">
+       <string>Vinicius_mecCustonAprov</string>
+      </void>
+     </array>
+    </void>
+   </array>
+  </void>
+ </object>
+</java>

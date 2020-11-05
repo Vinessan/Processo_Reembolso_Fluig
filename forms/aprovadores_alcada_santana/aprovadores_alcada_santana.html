@@ -1,0 +1,65 @@
+<html>
+
+<head>
+	<link type="text/css" rel="stylesheet" href="/style-guide/css/fluig-style-guide.min.css" />
+	<script type="text/javascript" src="/portal/resources/js/jquery/jquery.js"></script>
+	<script type="text/javascript" src="/portal/resources/js/jquery/jquery-ui.min.js"></script>
+	<script type="text/javascript" src="/portal/resources/js/mustache/mustache-min.js"></script>
+	<script type="text/javascript" src="/style-guide/js/fluig-style-guide.min.js" charset="utf-8"></script>
+</head>
+
+<body>
+	<div class="fluig-style-guide">
+		<form name="form" role="form">
+
+<!--CRIAÇÃO DA TABELA ÁI E FILHO PARA CADASTRO DE APROVADORES--------------------------------------------------------------------------------->
+			<div class="row">
+				<input type="hidden" name="aprovador" id="aprovador">
+				<button style="margin-left: 5%;" id="btnAdicionarLinha" class="btn btn-primary">Adicionar
+					Aprovador</button>
+			</div>
+			<div class="row table-responsive">
+				<table class="table" tablename="aprovadores" addbuttonlabel="Adicionar Aprovador" noaddbutton=true>
+					<thead>
+						<tr>
+							<td><b>Nome</b></td>
+							<td><b>Valor</b></td>
+							<td><b>ColleagueID</b></td>
+						</tr>
+					</thead>
+					<tr>
+						<td><input class="form-control" type="text" name="nomeAprovador"></td>
+						<td><input class="form-control" mask="#00.000.000.000.000,00" type="text" name="valorMaximo">
+						</td>
+						<td><input type="zoom" id="colleagueID" name="colleagueID" data-zoom="{
+							'displayKey':'colleagueName',
+							'datasetId':'colleague',
+							'maximumSelectionLength':'1',
+							'placeholder':'Escolha o usuário',
+							'fields':[
+								{
+									'field':'colleagueId',
+									'label':'ID'
+								},{
+									'field':'colleagueName',
+									'label':'Nome',
+									'standart':'true'
+								},{
+									'field':'login',
+									'label':'Login'
+								}
+							]
+						}" />
+
+							<input type="hidden" name="colleagueIDUser">
+
+						</td>
+					</tr>
+				</table>
+			</div>
+		</form>
+	</div>
+	<script src="./aprova.js"></script>
+</body>
+
+</html>
